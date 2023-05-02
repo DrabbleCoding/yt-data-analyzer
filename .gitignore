@@ -1,5 +1,5 @@
 ignore.py
-.__pycache__
+__pycache__/
 sample_video_description.txt
 scaper.py
 sponsorship.py
